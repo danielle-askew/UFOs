@@ -7,13 +7,13 @@ For this project we worked with a client to display a UFO data table that is sto
 ## Results 
 Our resulting web page displayed below.
 
-![UFO site](images/UFO_Website.png)
+![UFO site](static/images/UFO_Website.png)
 
 Displayed in our webpage is the
-**Date
-**Location
-**UFO shapes
-**Witness comments
+* Date
+* Location
+* UFO shapes
+* Witness comments
 
 Visitors to our webpage can use the filter search section to find specific instances of the information above. 
 
